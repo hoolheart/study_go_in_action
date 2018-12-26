@@ -1,2 +1,3 @@
-# study_go_in_action
-study project for GO in Action
+# Study project for "GO in Action"
+
+Here present my study codes for the book "GO in Action".
